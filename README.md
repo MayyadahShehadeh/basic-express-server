@@ -1,6 +1,6 @@
 # basic-express-server
 
-### Author : Mayyadah Shehadeh**
+### Author : Mayyadah Shehadeh
 
 * [tests report](https://github.com/MayyadahShehadeh/basic-express-server/actions)
 
