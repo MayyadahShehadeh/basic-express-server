@@ -42,7 +42,7 @@ describe('validator middleware', ()=> {
 
     it('given an name in the query string, the output object is correct', async () => {
         const response = await request.get('/person?name=mayadah'); // async
-        expect(response.status).toEqual(200);
+        expect(response.body).toEqual({name:'mayadah'});
         
     });
 
